@@ -4,11 +4,12 @@ This code is an JAVA implementation of Fortune's Algorithm to compute voronoi di
 
 Features:
 ===
-This code can output voronoi edges as ArrayList. each edges has built in functions that allows:
+This code can output voronoi edges as ArrayList. each edges has built in functions that allows:<br >
 1. get points that share this edge.<br >
 2. get direction of this edge.<br>
 <br>
 There is an function to compute polygon for each input point.<br>
+<br >
 ![alt tag](https://github.com/wuga214/VoronoiDiagram/blob/master/code/figure.png)
 
 How to use:
