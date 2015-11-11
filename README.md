@@ -9,6 +9,7 @@ This code can output voronoi edges as ArrayList. each edges has built in functio
 2. get direction of this edge.<br>
 <br>
 There is an function to compute polygon for each input point.<br>
+![alt tag](https://github.com/wuga214/VoronoiDiagram/blob/master/code/figure.png)
 
 How to use:
 ===
